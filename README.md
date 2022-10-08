@@ -3,10 +3,8 @@
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 - 👋 Hi, I’m @anshgupta17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C & C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ** C & C++ **
+- 📫 How to reach me **guptaboyansh@gmail.com**
 
 <!---
 anshgupta17/anshgupta17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
