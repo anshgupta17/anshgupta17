@@ -1,5 +1,8 @@
 <h1 align="center">Hi , I AM ANSH GUPTA</h1>
 
+### Profile Views : 
+  <img src="https://profile-counter.glitch.me/anshgupta17/count.svg" />
+
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 - 👋 Hi, I’m @anshgupta17
