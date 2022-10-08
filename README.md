@@ -1,5 +1,4 @@
 <h1 align="center">Hi , I AM ANSH GUPTA</h1>
-HI , I AM ANSH GUPTA
 - 👋 Hi, I’m @anshgupta17
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C & C++
