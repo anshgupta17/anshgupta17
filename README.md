@@ -5,7 +5,7 @@
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni&duration=2000&pause=800&width=435&lines=Learner;A+Passionate+Programmer" alt="Typing SVG" /></a>
 </p>
 
-<!-- <h3 align="center">A passionate Competitive Programmer from India</h3> -->
+<!-- <h3 align="center">A Passionate Programmer</h3> -->
 
 ### Profile Views : 
   <img src="https://profile-counter.glitch.me/anshgupta17/count.svg" />
