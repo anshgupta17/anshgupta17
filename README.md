@@ -6,7 +6,7 @@
 ##  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 - 👋 Hi, I’m @anshgupta17
-- 🌱 I’m currently learning ** C & C++ **
+- 🌱 I’m currently learning `C & C++` <br>
 - 📫 How to reach me **guptaboyansh@gmail.com**
 - 📧 Feel Free to Contact Me : `8650123030` <br>
 
