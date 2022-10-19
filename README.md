@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ANSH GUPTA</h1>
 <!-- Typing SVG -->
 <p align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni&duration=2000&pause=800&width=435&lines=Learner;A+Passionate+Programmer" alt="Typing SVG" /></a>
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni&duration=2000&pause=800&width=435&lines=Learner;A+Passionate+Programmer+from+India" alt="Typing SVG" /></a>
 </p>
 
 <!-- <h3 align="center">A Passionate Programmer</h3> -->
