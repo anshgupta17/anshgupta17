@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm ANSH GUPTA</h1>
+<h1 align="center"><img width="30" src="https://www.funimada.com/assets/images/cards/big/hello-2.gif"> </h1><h2 align="center" style="color:red;font-size:1000px">I'M ANSH GUPTA </h2>
+
 <!-- Typing SVG -->
 <p align="center">
   <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni&duration=2000&pause=800&width=435&lines=Learner;A+Passionate+Programmer+from+India" alt="Typing SVG" /></a>
