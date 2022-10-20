@@ -31,8 +31,8 @@
 </p>
 
 ```python
-Interests = ["Coding" , "Photography")]
-Languages = ["C", "C++"]
+Interests = ["CODING" , "PHOTOGRAPHY" , "EDITING"]
+Languages = ["C" , "C++" , "HTML"]
 ```
 
 <img  align="center" width="700" src="https://media.tenor.com/Nx4gRgudzx4AAAAC/anime-typing.gif">
